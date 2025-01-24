@@ -3,8 +3,7 @@ I’m Abi, a Computer Science student at Stellenbosch University, passionate abo
 
 In addition to tech, I’m an artist 🖌️ (I illustrated the published book "A Guide to Tidal Pools of the Western Cape"), a writer ✍️, and a content creator 🎥.
 
-## Let’s connect! 🚀
-
+Let’s connect! 🚀
 <!--
 **abigailwidan/abigailwidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
