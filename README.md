@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there! 👋
+I’m Abi, a Computer Science student at Stellenbosch University, passionate about full-stack development and creating impactful solutions that address real-world challenges.
+
+In addition to tech, I’m an artist 🖌️ (I illustrated the published book "A Guide to Tidal Pools of the Western Cape"), a writer ✍️, and a content creator 🎥.
+
+## Let’s connect! 🚀
 
 <!--
 **abigailwidan/abigailwidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
