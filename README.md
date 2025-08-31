@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I’m Abi, a Computer Science student at Stellenbosch University, passionate about full-stack development and creating impactful solutions that address real-world challenges.
+I’m Abi, a Computer Science student at Stellenbosch University.
 
 In addition to tech, I’m an artist 🖌️ (I illustrated the published book "A Guide to Tidal Pools of the Western Cape") and a writer ✍️.
 
